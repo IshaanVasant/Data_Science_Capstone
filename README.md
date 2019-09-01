@@ -1,5 +1,5 @@
 # Data Science Capstone
-### A repository for the Coursera Applied Data Science Capstone Project by IBM
+### A repository for the Coursera IBM Applied Data Science Capstone Project
 ---
 
 If the Jupyter Notebook **does not load** or is **displayed with formatting errors**, you can view the notebook using either of the two methods below:-
